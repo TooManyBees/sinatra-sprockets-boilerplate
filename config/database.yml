@@ -1,0 +1,11 @@
+development:
+  adapter: postgres
+  database: app_dev
+  encoding: unicode
+  host: /tmp
+
+production:
+  adapter: postgres
+  database: app_prod
+  encoding: unicode
+  host: /tmp

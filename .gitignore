@@ -1,0 +1,8 @@
+Gemfile.lock
+log
+tmp
+.sass-cache/
+.DS_Store
+.rbenv-vars
+config/nginx.base
+public/s
